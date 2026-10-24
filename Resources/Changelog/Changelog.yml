@@ -12526,3 +12526,47 @@ Entries:
   id: 6528
   time: '2026-10-17T13:32:26.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2095
+- author: JohnKieser
+  changes:
+    - type: Tweak
+      message: >-
+        Oversight with RNG caused expeditions to probably use the same seed for
+        loot.
+    - type: Tweak
+      message: Corrected cache room spawn weights. Adjusted weights in general
+  id: 6529
+  time: '2026-10-19T05:55:47.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2098
+- author: Davisrocket
+  changes:
+    - type: Add
+      message: >-
+        Ammo Crates, Detonable Crates, Recreation Crates, Provision Crates,
+        Equipment Crates, Medical Crates
+    - type: Add
+      message: >-
+        Armor Crates balance, and armor balance for Enclave (no longer all the
+        same)
+    - type: Tweak
+      message: Massive Price Overhaul to Enclave gear, stocks, and cost adjustments
+    - type: Tweak
+      message: >-
+        Yaml locations, marks for Enclave clothing and naming to be more
+        standardized
+    - type: Tweak
+      message: ASRS Gold, Silver, Plant Sell Amount
+    - type: Tweak
+      message: Enclave BPs no longer necessary
+    - type: Tweak
+      message: >-
+        Planned future armors coded in but inactive, needing sprites (scout,
+        pilot, marine)
+    - type: Fix
+      message: small microfusion cell red to microfusion cell adjustments
+    - type: Fix
+      message: >-
+        remove Enclave name from appearing in some locations, changed to U.S.
+        Army
+  id: 6530
+  time: '2026-10-21T03:41:04.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2099

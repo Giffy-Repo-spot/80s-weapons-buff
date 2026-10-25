@@ -415,3 +415,6 @@
       animation: WeaponArcThrust
       soundHit:
         path: /Audio/Weapons/bladeslice.ogg
+    - type: GrantAction
+      actions:
+        - MisfitsActionMeleeCharge

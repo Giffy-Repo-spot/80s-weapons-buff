@@ -440,7 +440,6 @@
       sprite: _Nuclear14/Objects/Weapons/Guns/Snipers/pipe50.rsi
       slots:
       - suitStorage
-      - Belt
       - Pocket
     - type: Item
       size: Small

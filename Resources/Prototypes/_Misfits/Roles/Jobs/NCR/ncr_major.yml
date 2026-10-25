@@ -69,7 +69,7 @@
   storage:
     back:
       - N14BoxPlasticFilledMilitaryNCR
-      - M14Rapier
+
 
 - type: playTimeTracker
   id: NCRMajor

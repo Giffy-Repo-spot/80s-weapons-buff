@@ -397,6 +397,8 @@
   components:
     - type: Sprite
       sprite: _Nuclear14/Objects/Weapons/Melee/Rapier.rsi
+    - type: Item
+      sprite: _Nuclear14/Objects/Weapons/Melee/Rapier.rsi
     - type: Clothing
       sprite: _Nuclear14/Objects/Weapons/Melee/Rapier.rsi
       quickEquip: false

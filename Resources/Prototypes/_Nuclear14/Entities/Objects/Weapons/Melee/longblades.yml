@@ -395,5 +395,11 @@
   id: M14Rapier
   description: A fine sword given to the highest ranking officers of the NCR.
   components:
-    - type: Item
+    - type: Sprite
       sprite: _Nuclear14/Objects/Weapons/Melee/Rapier.rsi
+    - type: Clothing
+      sprite: _Nuclear14/Objects/Weapons/Melee/Rapier.rsi
+      quickEquip: false
+      slots:
+        - Belt
+        - suitStorage

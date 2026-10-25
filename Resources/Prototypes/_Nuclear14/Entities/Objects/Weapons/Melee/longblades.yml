@@ -396,4 +396,4 @@
   description: A fine sword given to the highest ranking officers of the NCR.
   components:
     - type: Item
-      sprite: _Corvax/Objects/Weapons/Melee/Rapier.rsi
+      sprite: _Nuclear14/Objects/Weapons/Melee/Rapier.rsi

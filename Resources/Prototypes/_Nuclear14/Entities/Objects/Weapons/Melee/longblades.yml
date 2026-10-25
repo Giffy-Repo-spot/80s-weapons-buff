@@ -388,3 +388,12 @@
     node: wasterkatana2
   - type: StaticPrice
     price: 75
+
+- type: entity
+  name: Rapier
+  parent: N14LongSword
+  id: M14Rapier
+  description: A fine sword given to the highest ranking officers of the NCR.
+  components:
+    - type: Item
+      sprite: _Corvax/Objects/Weapons/Melee/Rapier.rsi

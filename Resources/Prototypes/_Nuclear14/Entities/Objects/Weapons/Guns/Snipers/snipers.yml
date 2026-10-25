@@ -430,7 +430,7 @@
 
 - type: entity
   name: Pipe .50 pistol
-  parent: BaseWeaponSniper
+  parent: SniperPistolBase
   id: M14.50pistol
   description: A dangerously sawed off pipe .50 rifle, capable of breaking your arm if you aren't careful.
   components:

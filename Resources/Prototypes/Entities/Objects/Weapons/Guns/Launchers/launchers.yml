@@ -178,8 +178,8 @@
       maxCharge: 600
       startingCharge: 300
     - type: ProjectileBatteryAmmoProvider
-      proto: GrenadeFrag
-      fireCost: 600
+      proto: CannonBall
+      fireCost: 500
     - type: BatterySelfRecharger
       autoRecharge: true
       autoRechargeRate: 50

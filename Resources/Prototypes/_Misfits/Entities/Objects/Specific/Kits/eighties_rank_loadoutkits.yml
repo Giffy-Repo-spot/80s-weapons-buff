@@ -345,7 +345,7 @@
   id: KitEighties_CylindersShotcaller
   name: cylinders shotcaller kit
   parent: KitBase
-  description: A kit focused on breaking down all opposition. 
+  description: A looted stash with extra meds, fit for a cylinder.
   components:
   - type: Sprite
     state: pointman
@@ -372,8 +372,6 @@
     - id: N14JunkCeramicFlask
     sound:
       path: /Audio/Effects/unwrap.ogg
-
-
 
 # Commented out since it would require a balance pass that I don't have the time for rn. If someone else is willing to do so feel free.
 #- type: entity

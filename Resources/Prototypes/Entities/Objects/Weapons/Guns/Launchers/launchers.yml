@@ -179,10 +179,10 @@
       startingCharge: 300
     - type: ProjectileBatteryAmmoProvider
       proto: GrenadeFrag
-      fireCost: 500
+      fireCost: 400
     - type: BatterySelfRecharger
       autoRecharge: true
-      autoRechargeRate: 25
+      autoRechargeRate: 10
 
 - type: entity
   name: tether gun

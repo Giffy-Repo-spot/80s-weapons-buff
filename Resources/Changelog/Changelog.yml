@@ -12599,3 +12599,12 @@ Entries:
   id: 6533
   time: '2026-10-24T18:37:56.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2102
+- author: JohnKieser
+  changes:
+    - type: Fix
+      message: >-
+        Description for buffed perks updated to be correct. In case you didnt
+        realize life giver, iron fist, and rad claw were buffed
+  id: 6534
+  time: '2026-10-25T21:30:30.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2117

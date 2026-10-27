@@ -178,11 +178,11 @@
       maxCharge: 600
       startingCharge: 300
     - type: ProjectileBatteryAmmoProvider
-      proto: N140mmGrenadeFrag
+      proto: GrenadeFrag
       fireCost: 500
     - type: BatterySelfRecharger
       autoRecharge: true
-      autoRechargeRate: 50
+      autoRechargeRate: 25
 
 - type: entity
   name: tether gun

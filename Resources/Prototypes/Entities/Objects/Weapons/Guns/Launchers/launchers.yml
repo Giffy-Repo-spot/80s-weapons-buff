@@ -169,6 +169,22 @@
         path: /Audio/Weapons/Guns/Gunshots/grenade_launcher.ogg
 
 - type: entity
+  name: Waybreaker
+  parent: WeaponLauncherPirateCannon
+  id: M14Waybreaker
+  description: A weapon from a bygone era. Who knows how it ended up here. It always seems to have a shot prepared.
+  components:
+    - type: Battery
+      maxCharge: 600
+      startingCharge: 300
+    - type: ProjectileBatteryAmmoProvider
+      proto: GrenadeFrag
+      fireCost: 600
+    - type: BatterySelfRecharger
+      autoRecharge: true
+      autoRechargeRate: 50
+
+- type: entity
   name: tether gun
   parent:
   - BaseItem
